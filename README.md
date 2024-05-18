@@ -25,6 +25,3 @@ The purpose of the application is to implement the board game [Battleship](https
 
 ## References
 References were made to the CS349 W23 public repository for my implementation of this application. Specifically, the a3battleship starter code was referenced.
-
-## Enhancement
-No enhancement is made.
